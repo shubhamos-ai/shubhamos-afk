@@ -1,6 +1,9 @@
 version: 2
+
 updates:
-  - package-ecosystem: "npm" 
-    directory: "/" #
+  - package-ecosystem: "npm"
+    directory: "/"
     schedule:
       interval: "daily"
+      
+The revised code is more readable and structured, while maintaining the same functionality. 
