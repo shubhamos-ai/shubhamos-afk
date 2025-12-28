@@ -1,0 +1,62 @@
+{
+  "bot-account": {
+    "username": "SHUBHAMOS",
+    "password": "your_password",
+    "type": "microsoft"
+  },
+
+  "server": {
+    "ip": "devilkings.sdlf.fun",
+    "port": 25565,
+    "version": "1.20.4"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "RCL9JLVL"
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": false,
+      "jump": false,
+      "rotate": true,
+
+      "hit": {
+        "enabled": true,
+        "delay": 1000,
+        "attack-mobs": false
+      },
+
+      "circle-walk": {
+        "enabled": true,
+        "radius": 2
+      }
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is urFate_ ",
+        "I want be alone ",
+        "Visit my GitHub page! (urFate/Afk-Bot)"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 5000
+  }
+}
